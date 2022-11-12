@@ -1,6 +1,8 @@
 # WhaleExtension (MVP)
 A simple plugin to import products to your financial software.
 
+![Whale](https://user-images.githubusercontent.com/1760290/201489144-bf7137df-d8ea-4417-9655-1f5d3c5492ed.jpg)
+
 With this extension, you can import products or invoices from another app to your financial software (CyberAccount).
 It is useful for Accountants and general users.
 
@@ -11,7 +13,6 @@ Enjoy it!
 
 - [@uness126](https://github.com/uness126)
 - [@linkedin](https://www.linkedin.com/in/youness-mohamadian-beydokhti/)
-
 
 ## 🚀 About Me
 Working as a backend developer for a software company is what I've been doing for the past few years.
