@@ -14,7 +14,8 @@ Enjoy it!
 
 
 ## 🚀 About Me
-I'm a Dynamics 365 Developer, Web Developer, Back-end Developer with 10 years of experience creating software and APIs.
+Working as a backend developer for a software company is what I've been doing for the past few years.
+It is important to me to gain more work experience and to work with great teams.
 
 ## License
 
